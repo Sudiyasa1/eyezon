@@ -58,7 +58,9 @@ it scans it — no command needed.
 | `/track` · `/tokens` | track a token, then see what you're watching |
 | `/alerts` · `/setdefault` | price alerts: on, off, or your own % |
 | `/wallet` · `/wallets` | wallet watch and P&L |
-| `/ask` · `/tellme` | ask the AI about a token, or get the narrative |
+| `/tellme` | the narrative on any coin |
+| `/topten` · `/bigbrains` | top holders, and which wallets are smart money |
+| `/radar` | claim your profile on the site |
 | `/coach` · `/journal` | a mentor on your own trading history |
 | `/account` · `/referrals` · `/pro` | your status, invites, upgrade |
 
