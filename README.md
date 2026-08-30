@@ -46,49 +46,74 @@ Go check them.
 
 ### The bot — [@EyezOnBot](https://t.me/EyezOnBot)
 
-Where the calls land, and where you do the work.
+Where the calls land, and where you do the work. Paste any contract address and
+it scans it — no command needed.
 
 | | |
 |---|---|
-| `/latest` | the track record — every call, winners and losers |
-| `/calls` | recent calls and stats |
-| `/p` | price, chart and scan for any token |
-| `/chart` | chart any token |
-| `/security` | rug and safety check on a token |
-| `/track` · `/tokens` | track a token — or just paste its address — then see what you're holding |
-| `/alerts` | price alerts: on, off, or your own % |
-| `/wallets` | your saved wallets |
-| `/account` | your Pro status, invites and rewards |
-| `/referrals` | invite friends, earn Pro |
-| `/pro` | upgrade |
+| `/latest` · `/calls` | the record — every call, winners and losers |
+| `/p` · `/chart` | price, chart and scan for any token |
+| `/security` | rug and safety check |
+| `/whales` | whale intel on a token |
+| `/track` · `/tokens` | track a token, then see what you're watching |
+| `/alerts` · `/setdefault` | price alerts: on, off, or your own % |
+| `/wallet` · `/wallets` | wallet watch and P&L |
+| `/ask` · `/tellme` | ask the AI about a token, or get the narrative |
+| `/coach` · `/journal` | a mentor on your own trading history |
+| `/account` · `/referrals` · `/pro` | your status, invites, upgrade |
+
+Win cards fire automatically when a call peaks.
 
 ### The site — [eyezon.gg](https://eyezon.gg)
 
-**[Radar](https://eyezon.gg/radar)** — the live board. Every call, in order,
-with entry, peak and where it stands now. Also the leaderboard.
+**[Perception](https://eyezon.gg/perception)** — the hub. Where the engine's
+work lives.
 
-**[Perception](https://eyezon.gg/perception)** — the engine's own record.
+**[Radar](https://eyezon.gg/radar)** — crowd attention, the Hall of Fame, and
+the Eye Watch strip. Who is looking, and how hard.
 
-**[Aura](https://eyezon.gg/aura)** — the attention read on a token: who is
-looking, and how hard.
+**[Aura](https://eyezon.gg/aura)** — the high-aura board. What the crowd is
+turning toward before it's obvious.
 
-**[Token pages](https://eyezon.gg/token)** — any token, with its chart, its
-scan and its history.
+**[The record](https://eyezon.gg/perception-signals)** — every call we have
+published, in public.
 
-**[Wall](https://eyezon.gg/wall)** — a multichart grid of recent signals, all
-moving at once.
+**[IRIS](https://eyezon.gg/iris)** — the data engine, in the open.
 
-**[Coach](https://eyezon.gg/coach)** — put a trade or a habit in front of it and
-get a straight read back.
+**[Profile](https://eyezon.gg/profile)** — your home base. Watchlists, friends,
+your own assistant.
 
-**[Profile](https://eyezon.gg/profile)** — your watchlists, your people, your
-stats.
+**[Coach](https://eyezon.gg/coach)** — a mentor that reads your actual history,
+not generic advice.
 
-**[Reveal](https://eyezon.gg/reveal)** · **[Social](https://eyezon.gg/social)** —
-the community side.
+**[Social](https://eyezon.gg/social)** — friends and DMs, anon-first.
+
+**[The 48h board](https://eyezon.gg/app)** — installable, everything live from
+the last two days.
 
 Every call also gets a share card — one link, the whole call, readable by
 anyone.
+
+### Free and Pro
+
+Free gets you the past. Pro gets you the present.
+
+| | Free | Pro |
+|---|---|---|
+| Scan any token, security, the public record | ✓ | ✓ |
+| Track | 10 tokens | 250, custom ±% |
+| Wallets | 1 | 5 |
+| Whale intel | count | names, tier, P&L, win-rate |
+| Call history | latest 10 | the full book |
+| Crowd-heat | on the board | straight to your DMs |
+| Ask the AI | 5 a day | unlimited |
+| The live channel | — | calls as they fire |
+| Aura board · Radar | teaser | unblurred |
+
+**0.1 SOL a week.** 0.3 monthly, 0.8 for three months, 1.3 for six, 2.3 for a
+year. [Upgrade](https://eyezon.gg/checkout) or `/pro` in the bot.
+
+Free community: [t.me/eyezonchat](https://t.me/eyezonchat)
 
 ## The stack
 
