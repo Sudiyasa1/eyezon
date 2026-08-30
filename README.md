@@ -172,15 +172,6 @@ believe.
 The engine, the thresholds and the gates are ours and stay ours. What's here is
 the part that's useful to you on its own.
 
-## Creator fees
-
-pump.fun can route a share of a coin's creator fees to a GitHub account. If
-you've launched something that builds on this work and want to send fees back
-to the project, point them at [**@Sudiyasa1**](https://github.com/Sudiyasa1) —
-the account behind this repo.
-
-It buys no endorsement, no listing and no call.
-
 ## Not financial advice
 
 Memecoins are high-risk. Nothing here is a recommendation to buy anything.
