@@ -42,6 +42,54 @@ Nothing backfilled, nothing quietly deleted.
 Every one of the 3,117 is on the site right now, in order, with its number.
 Go check them.
 
+## The product
+
+### The bot — [@EyezOnBot](https://t.me/EyezOnBot)
+
+Where the calls land, and where you do the work.
+
+| | |
+|---|---|
+| `/latest` | the track record — every call, winners and losers |
+| `/calls` | recent calls and stats |
+| `/p` | price, chart and scan for any token |
+| `/chart` | chart any token |
+| `/security` | rug and safety check on a token |
+| `/track` · `/tokens` | track a token — or just paste its address — then see what you're holding |
+| `/alerts` | price alerts: on, off, or your own % |
+| `/wallets` | your saved wallets |
+| `/account` | your Pro status, invites and rewards |
+| `/referrals` | invite friends, earn Pro |
+| `/pro` | upgrade |
+
+### The site — [eyezon.gg](https://eyezon.gg)
+
+**[Radar](https://eyezon.gg/radar)** — the live board. Every call, in order,
+with entry, peak and where it stands now. Also the leaderboard.
+
+**[Perception](https://eyezon.gg/perception)** — the engine's own record.
+
+**[Aura](https://eyezon.gg/aura)** — the attention read on a token: who is
+looking, and how hard.
+
+**[Token pages](https://eyezon.gg/token)** — any token, with its chart, its
+scan and its history.
+
+**[Wall](https://eyezon.gg/wall)** — a multichart grid of recent signals, all
+moving at once.
+
+**[Coach](https://eyezon.gg/coach)** — put a trade or a habit in front of it and
+get a straight read back.
+
+**[Profile](https://eyezon.gg/profile)** — your watchlists, your people, your
+stats.
+
+**[Reveal](https://eyezon.gg/reveal)** · **[Social](https://eyezon.gg/social)** —
+the community side.
+
+Every call also gets a share card — one link, the whole call, readable by
+anyone.
+
 ## The stack
 
 **[IRIS](docs/iris.md)** — the detection layer. Holds a live websocket subscription to Solana and catches a
