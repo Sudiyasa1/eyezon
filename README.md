@@ -77,6 +77,13 @@ the Eye Watch strip. Who is looking, and how hard.
 **[Aura](https://eyezon.gg/aura)** — the high-aura board. What the crowd is
 turning toward before it's obvious.
 
+![The Aura view for $CATE — seven scored factors, each with the read behind it, and the Signal Shape radar](docs/img/aura-cate.png)
+
+*The Aura view, on $CATE. Seven factors, each scored with the reason for the
+score underneath it, and the shape they make together. Entry mcap, mcap now and
+the multiple are the recorded numbers, not a claim. Read live when the view is
+opened.*
+
 **[The record](https://eyezon.gg/perception-signals)** — every call we have
 published, in public.
 
