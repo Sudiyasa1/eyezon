@@ -56,7 +56,7 @@ it scans it — no command needed.
 | `/security` | rug and safety check |
 | `/whales` | whale intel on a token |
 | `/track` · `/tokens` | track a token, then see what you're watching |
-| `/alerts` · `/setdefault` | price alerts: on, off, or your own % |
+| `/alerts` · `/setdefault` · `/heatalerts` | price alerts on, off or your own %, and crowd-heat straight to your DMs |
 | `/wallet` · `/wallets` | wallet watch and P&L |
 | `/tellme` | the narrative on any coin |
 | `/topten` · `/bigbrains` | top holders, and which wallets are smart money |
