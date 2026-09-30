@@ -5,7 +5,7 @@
 Every pump.fun graduation, scanned in about a second. Priced from the chain in
 seventeen. Scored, gated, and called before the timeline knows it exists.
 
-**Live:** [eyezon.gg](https://eyezon.gg) · **Bot:** [@EyezOnBot](https://t.me/EyezOnBot)
+**Live:** [eyezon.gg](https://eyezon.gg) · **Bot:** [@EyezOnBot](https://t.me/EyezOnBot) · **X:** [@eyezonbot](https://x.com/eyezonbot)
 
 ---
 
@@ -97,11 +97,22 @@ not generic advice.
 
 **[Social](https://eyezon.gg/social)** — friends and DMs, anon-first.
 
-**[The 48h board](https://eyezon.gg/app)** — installable, everything live from
-the last two days.
+**[The app](https://eyezon.gg/app)** — installable, one app with the Signals
+feed, Radar, Live Desk, Profile and Pro all a tab apart. Open a token and its
+market cap updates live on the page. From Profile you can follow other traders
+and find friends. Ask **"Tell me the narrative"** on any token and the app
+writes the story behind the chart.
+
+**Live Desk** — every call tracked for seven days, with a clean badge for
+whether it held 1h, 6h and 24h without ever falling 40% below the call. Filter
+by liquidity, volume or grade. Part of Pro.
+
+**Top Wallets** — open any token and see who is really holding it, wallet by
+wallet, bags sized in SOL.
 
 Every call also gets a share card — one link, the whole call, readable by
-anyone.
+anyone. The biggest wins get a chart replay video, and every call that reaches
+2× gets its own win post.
 
 ### Free and Pro
 
@@ -110,6 +121,7 @@ Free gets you the past. Pro gets you the present.
 | | Free | Pro |
 |---|---|---|
 | Scan any token, security, the public record | ✓ | ✓ |
+| The call feed | unlocks at 2× | live, the second it fires |
 | Track | 10 tokens | 250, custom ±% |
 | Wallets | 1 | 5 |
 | Whale intel | count | names, tier, P&L, win-rate |
@@ -120,7 +132,7 @@ Free gets you the past. Pro gets you the present.
 | Aura board · Radar | teaser | unblurred |
 
 **0.1 SOL a week.** 0.3 monthly, 0.8 for three months, 1.3 for six, 2.3 for a
-year. [Upgrade](https://eyezon.gg/checkout) or `/pro` in the bot.
+year. Pay in SOL at [eyezon.gg/pro](https://eyezon.gg/pro) or `/pro` in the bot.
 
 Free community: [t.me/eyezonchat](https://t.me/eyezonchat)
 
