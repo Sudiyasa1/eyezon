@@ -19,7 +19,7 @@ EyezOn is the other thing. No callers, no bags, no vibes. An engine that watches
 every migration on Solana, prices it off the chain itself, and either calls it
 or kills it — in the time it takes you to unlock your phone.
 
-**46,400 tokens graduated since July 16. We called 3,117 of them.**
+**81,945 tokens graduated since July 16. We called 5,111 of them.**
 
 One in fifteen. The other fourteen failed something — liquidity too thin,
 holders too stacked, buy pressure faked, or the contract carrying a rug
@@ -32,14 +32,11 @@ Nothing backfilled, nothing quietly deleted.
 
 | | |
 |---|---|
-| **38.8%** | reached 2× |
-| **11.3%** | reached 5× |
-| **4.0%** | reached 10× |
-| **2,021×** | best call — $CATE |
-| **~63** | calls a day |
-| **~17s** | graduation to priced, scored and decided |
+| **40%** | win rate — peaked 2× or more |
+| **2.05×** | average multiple, per call |
+| **2,790×** | best call — $CATE |
 
-Every one of the 3,117 is on the site right now, in order, with its number.
+Every one of the 5,111 is on the site right now, in order, with its number.
 Go check them.
 
 ## The product
@@ -103,12 +100,18 @@ market cap updates live on the page. From Profile you can follow other traders
 and find friends. Ask **"Tell me the narrative"** on any token and the app
 writes the story behind the chart.
 
+![The Signals feed on the EyezOn app — call counter, top wins this week, and the live feed with grade filters](docs/img/app-home.png)
+
 **Live Desk** — every call tracked for seven days, with a clean badge for
 whether it held 1h, 6h and 24h without ever falling 40% below the call. Filter
 by liquidity, volume or grade. Part of Pro.
 
+![Live Desk clean badges — calls that held 1h/6h/24h without ever trading 40% below the call](docs/img/live-desk-badges.jpg)
+
 **Top Wallets** — open any token and see who is really holding it, wallet by
 wallet, bags sized in SOL.
+
+![Top Wallets on a token page — real holders ranked by share, with their other bags sized in SOL](docs/img/top-wallets.jpg)
 
 Every call also gets a share card — one link, the whole call, readable by
 anyone. The biggest wins get a chart replay video, and every call that reaches
