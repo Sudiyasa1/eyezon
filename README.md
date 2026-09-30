@@ -21,7 +21,7 @@ or kills it — in the time it takes you to unlock your phone.
 
 **81,945 tokens graduated since July 16. We called 5,111 of them.**
 
-One in fifteen. The other fourteen failed something — liquidity too thin,
+One in sixteen. The other fifteen failed something — liquidity too thin,
 holders too stacked, buy pressure faked, or the contract carrying a rug
 signature. Saying no is the product. Anyone can forward every launch.
 
@@ -32,8 +32,6 @@ Nothing backfilled, nothing quietly deleted.
 
 | | |
 |---|---|
-| **40%** | win rate — peaked 2× or more |
-| **2.05×** | average multiple, per call |
 | **2,790×** | best call — $CATE |
 
 Every one of the 5,111 is on the site right now, in order, with its number.
@@ -144,7 +142,7 @@ Free community: [t.me/eyezonchat](https://t.me/eyezonchat)
 **[IRIS](docs/iris.md)** — the detection layer. Holds a live websocket subscription to Solana and catches a
 migration the moment it lands on chain, fastest observed inside **one second**.
 Coverage is measured against chain truth, not against a vendor's word for it:
-**100%** of graduations since 16 July.
+**over 99%** of graduations since 16 July.
 
 **[THE LENS](docs/the-lens.md)** — our own scoring path. When a price vendor rate-limits or stalls,
 The Lens scores the token off *our own* swap tape instead of waiting. No feed

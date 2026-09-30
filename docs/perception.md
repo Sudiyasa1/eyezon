@@ -20,7 +20,7 @@ mint authority, live freeze authority, and the patterns that precede a pull.
 
 ## Selectivity is the product
 
-Roughly one in fifteen graduations clears. The other fourteen fail one of the
+Roughly one in sixteen graduations clears. The other fifteen fail one of the
 above. Anyone can forward every launch; the value is in what does not get sent.
 
 ## Stamped at the moment of the call

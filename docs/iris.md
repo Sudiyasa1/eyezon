@@ -8,7 +8,7 @@ and its AMM pool is created on chain.
 
 ## Coverage, and how we measure it
 
-Coverage is **100%** of graduations since 16 July 2026 — and the number that
+Coverage is **over 99%** of graduations since 16 July 2026 — and the number that
 matters is what it is measured against.
 
 Most systems measure coverage against a vendor: "we saw everything the API told
