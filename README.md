@@ -104,7 +104,7 @@ writes the story behind the chart.
 whether it held 1h, 6h and 24h without ever falling 40% below the call. Filter
 by liquidity, volume or grade. Part of Pro.
 
-![Live Desk clean badges — calls that held 1h/6h/24h without ever trading 40% below the call](docs/img/live-desk-badges.jpg)
+![Live Desk clean badges — calls that held 1h/6h/24h without ever falling 40% below the call](docs/img/live-desk-badges.jpg)
 
 **Top Wallets** — open any token and see who is really holding it, wallet by
 wallet, bags sized in SOL.
